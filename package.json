@@ -1,0 +1,15 @@
+{
+  "name": "simpleTests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eric Saul Lopez Barragan",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha ./tests/*.test.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "faker": "^5.5.3",
+    "mocha": "^9.1.3"
+  }
+}
